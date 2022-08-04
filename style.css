@@ -54,3 +54,11 @@ input{
     background-color:rgb(194, 226, 146) ;
     margin-left: 50px;
 }
+footer{
+    
+    width: 200px;
+    margin-left: 200px;
+}
+a:hover{
+   color: brown;
+}
